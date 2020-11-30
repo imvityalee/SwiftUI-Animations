@@ -4,6 +4,6 @@
  ### Character Animation 
  <img
  src="https://github.com/imvityalee/SwiftUI-Animations/blob/main/CharacterAnimation/animation1.gif"
- width="475 height="400"/>
+ width="475" height="400"/>
  
  
